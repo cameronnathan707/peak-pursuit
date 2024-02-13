@@ -1,2 +1,2 @@
-# peak-pursuit
+# Peak-Pursuit
 Peak Pursuit: Ascend Reality
