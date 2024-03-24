@@ -14,6 +14,7 @@ public class HandPrescence : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        if(!spawnedHandModel)
         spawnedHandModel = Instantiate(handModelPrefab, transform);   
     }
 
