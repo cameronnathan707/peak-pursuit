@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenuScreen.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/Scenes/ClimbingTutorial.unity
+    guid: 65986f983ceab414fa24769b7585df33
+  - enabled: 1
     path: Assets/Scenes/TowerLevel.unity
     guid: efbd597094a4de644a40141d414efec2
   - enabled: 0
